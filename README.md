@@ -1,0 +1,2 @@
+# Web_Crawler_url_to_text
+this web crawler takes any URL as input and then access the list of all URL's that can be accessed from input URL for example if on URL www.abc.com/xyz I have reference to 10 webpages then it will store the web address of those URL's in a list and similarly go to those webpages and do the same thing, in this way me can store thousands of URL's can be stored in a list, After this, Web_Crawler_url_to_text access each URL one by one from the list and fetch the text present in the webpage and store it into a text file.
